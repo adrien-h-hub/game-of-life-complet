@@ -1,0 +1,142 @@
+================================================================================
+    CONWAY'S GAME OF LIFE - ENHANCED EDITION v1.1.0
+    Installation Information / Informations d'Installation
+================================================================================
+
+ENGLISH VERSION
+---------------
+
+Welcome to Conway's Game of Life Enhanced Edition!
+
+FEATURES:
+• 8 Beautiful color themes (Neon, Ocean, Forest, Sunset, etc.)
+• Time travel: Rewind and forward through generation history
+• Auto-pause on stable patterns (oscillators, still lifes)
+• Pattern detection system
+• Random 3×3 pattern generator (4-9 cells)
+• Real-time statistics and mini-map
+• Interactive drawing and zooming
+• Cross-platform support
+
+SYSTEM REQUIREMENTS:
+• Operating System: Windows 10/11, Linux, or macOS 10.15+
+• RAM: 512 MB minimum
+• Processor: x64 compatible
+• Graphics: OpenGL 3.3+ support
+• Disk Space: 50 MB
+
+INSTALLATION STEPS:
+1. Click "Next" to continue
+2. Choose installation directory (default recommended)
+3. Select if you want a desktop shortcut
+4. Click "Install" to begin installation
+5. Wait for installation to complete
+6. Click "Finish" to launch the application
+
+AFTER INSTALLATION:
+• Launch from Start Menu or desktop shortcut
+• Press H in the application for help
+• Press R to generate a random pattern
+• Press SPACE to start simulation
+• Press K to change themes
+
+For more information, visit:
+https://github.com/yourusername/GameOfLife
+
+================================================================================
+
+VERSION FRANÇAISE
+-----------------
+
+Bienvenue dans le Jeu de la Vie de Conway - Édition Améliorée !
+
+FONCTIONNALITÉS :
+• 8 Magnifiques thèmes de couleurs (Néon, Océan, Forêt, etc.)
+• Voyage temporel : Retour et avance dans l'historique
+• Pause automatique sur motifs stables
+• Système de détection de motifs
+• Générateur de motifs 3×3 aléatoires (4-9 cellules)
+• Statistiques en temps réel et mini-carte
+• Dessin interactif et zoom
+• Support multi-plateforme
+
+CONFIGURATION REQUISE :
+• Système d'exploitation : Windows 10/11, Linux, ou macOS 10.15+
+• RAM : 512 Mo minimum
+• Processeur : Compatible x64
+• Graphiques : Support OpenGL 3.3+
+• Espace disque : 50 Mo
+
+ÉTAPES D'INSTALLATION :
+1. Cliquez sur "Suivant" pour continuer
+2. Choisissez le répertoire d'installation (défaut recommandé)
+3. Sélectionnez si vous voulez un raccourci bureau
+4. Cliquez sur "Installer" pour démarrer l'installation
+5. Attendez la fin de l'installation
+6. Cliquez sur "Terminer" pour lancer l'application
+
+APRÈS L'INSTALLATION :
+• Lancez depuis le Menu Démarrer ou le raccourci bureau
+• Appuyez sur H dans l'application pour l'aide
+• Appuyez sur R pour générer un motif aléatoire
+• Appuyez sur ESPACE pour démarrer la simulation
+• Appuyez sur K pour changer de thème
+
+Pour plus d'informations, visitez :
+https://github.com/votreusername/GameOfLife
+
+================================================================================
+
+TROUBLESHOOTING / DÉPANNAGE
+----------------------------
+
+ENGLISH:
+Q: The application doesn't start?
+A: Make sure you have OpenGL 3.3+ drivers installed. Update your graphics drivers.
+
+Q: Black screen or no window appears?
+A: Check Windows Task Manager. The app might be running in the background.
+   Try Alt+Tab to find the window.
+
+Q: Performance issues?
+A: Press +/- to adjust simulation speed. Close other applications.
+
+FRANÇAIS :
+Q : L'application ne démarre pas ?
+R : Assurez-vous d'avoir les pilotes OpenGL 3.3+ installés. Mettez à jour vos pilotes graphiques.
+
+Q : Écran noir ou pas de fenêtre ?
+R : Vérifiez le Gestionnaire des tâches Windows. L'app peut tourner en arrière-plan.
+   Essayez Alt+Tab pour trouver la fenêtre.
+
+Q : Problèmes de performance ?
+R : Appuyez sur +/- pour ajuster la vitesse. Fermez les autres applications.
+
+================================================================================
+
+UNINSTALLATION / DÉSINSTALLATION
+---------------------------------
+
+ENGLISH:
+To uninstall, use Windows "Apps & Features" or run the uninstaller from:
+Start Menu → Conway's Game of Life → Uninstall
+
+FRANÇAIS :
+Pour désinstaller, utilisez "Applications et fonctionnalités" Windows ou lancez le désinstalleur depuis :
+Menu Démarrer → Conway's Game of Life → Désinstaller
+
+================================================================================
+
+CONTACT & SUPPORT
+-----------------
+
+Email: your.email@example.com
+GitHub: https://github.com/yourusername/GameOfLife
+Issues: https://github.com/yourusername/GameOfLife/issues
+
+================================================================================
+
+Thank you for installing Conway's Game of Life!
+Merci d'avoir installé le Jeu de la Vie de Conway !
+
+================================================================================

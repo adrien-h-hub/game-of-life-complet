@@ -1,0 +1,210 @@
+================================================================================
+    QUICK START GUIDE - CONWAY'S GAME OF LIFE v1.1.0
+    Guide de Démarrage Rapide
+================================================================================
+
+🎮 ENGLISH VERSION
+------------------
+
+CONGRATULATIONS! You've successfully installed Conway's Game of Life.
+
+🚀 FIRST STEPS:
+
+1. Launch the application from your Start Menu or desktop shortcut
+2. You'll see a dark window with a grid
+
+3. Press R to generate a random 3×3 pattern in the center
+4. Press SPACE to start the simulation
+5. Watch the cells evolve!
+
+⌨️ ESSENTIAL CONTROLS:
+
+R       - Generate random 3×3 pattern (4-9 cells)
+SPACE   - Play/Pause simulation
+←       - Rewind (go back in history, Gen→0)
+→       - Forward (advance in history, Gen→0)
+K       - Change color theme (8 themes available)
+H       - Show/hide help overlay
+ESC     - Quit application
+
+🖱️ MOUSE CONTROLS:
+
+Left Click      - Draw/erase cells
+Right Drag      - Pan the view
+Scroll Wheel    - Zoom in/out
+
+📊 UNDERSTANDING THE INTERFACE:
+
+• TOP LEFT: Statistics panel
+  - Generation number
+  - Population count
+  - Births and deaths
+  - FPS and speed
+
+• BOTTOM RIGHT: Mini-map
+  - Overview of entire grid
+  - Your current view position
+
+• PRESS H: Full help overlay
+  - All keyboard controls
+  - Mouse actions
+  - Features list
+
+🎨 TRY DIFFERENT THEMES:
+
+Press K multiple times to cycle through:
+1. Neon (bright cyan/pink)
+2. Ocean (blue tones)
+3. Forest (green tones)
+4. Sunset (orange/red)
+5. Lavender (purple)
+6. Rainbow (multi-color)
+7. Fire (red/yellow)
+8. Ice (light blue)
+
+⏮️ TIME TRAVEL FEATURE:
+
+• Press ← to go back to previous generations
+• Press → to go forward in history
+• Generation counter resets to 0 when navigating
+• Up to 100 generations saved in history
+
+🎯 AUTO-PAUSE:
+
+• Press O to toggle auto-pause
+• When enabled, simulation pauses automatically
+  when a stable pattern is detected (oscillators
+  or still lifes after 3 generations)
+
+📖 MORE INFORMATION:
+
+• Full documentation in: docs/ folder
+• User guide: docs/USER_GUIDE_EN.md
+• Architecture: docs/ARCHITECTURE.md
+• SOLID principles: docs/SOLID_PRINCIPLES.md
+
+================================================================================
+
+🎮 VERSION FRANÇAISE
+--------------------
+
+FÉLICITATIONS ! Vous avez installé avec succès le Jeu de la Vie de Conway.
+
+🚀 PREMIERS PAS :
+
+1. Lancez l'application depuis votre Menu Démarrer ou raccourci bureau
+2. Vous verrez une fenêtre sombre avec une grille
+
+3. Appuyez sur R pour générer un motif 3×3 aléatoire au centre
+4. Appuyez sur ESPACE pour démarrer la simulation
+5. Regardez les cellules évoluer !
+
+⌨️ CONTRÔLES ESSENTIELS :
+
+R       - Générer motif 3×3 aléatoire (4-9 cellules)
+ESPACE  - Lecture/Pause simulation
+←       - Retour arrière (historique, Gen→0)
+→       - Avancer (historique, Gen→0)
+K       - Changer thème couleur (8 thèmes disponibles)
+H       - Afficher/masquer aide
+ESC     - Quitter l'application
+
+🖱️ CONTRÔLES SOURIS :
+
+Clic Gauche         - Dessiner/effacer cellules
+Glisser Droit       - Déplacer la vue
+Molette             - Zoom avant/arrière
+
+📊 COMPRENDRE L'INTERFACE :
+
+• HAUT GAUCHE : Panneau de statistiques
+  - Numéro de génération
+  - Nombre de population
+  - Naissances et décès
+  - FPS et vitesse
+
+• BAS DROITE : Mini-carte
+  - Vue d'ensemble de la grille
+  - Votre position actuelle
+
+• APPUYEZ SUR H : Aide complète
+  - Tous les contrôles clavier
+  - Actions souris
+  - Liste des fonctionnalités
+
+🎨 ESSAYEZ DIFFÉRENTS THÈMES :
+
+Appuyez sur K plusieurs fois pour parcourir :
+1. Néon (cyan/rose brillant)
+2. Océan (tons bleus)
+3. Forêt (tons verts)
+4. Coucher de soleil (orange/rouge)
+5. Lavande (violet)
+6. Arc-en-ciel (multi-couleur)
+7. Feu (rouge/jaune)
+8. Glace (bleu clair)
+
+⏮️ FONCTIONNALITÉ VOYAGE TEMPOREL :
+
+• Appuyez sur ← pour revenir aux générations précédentes
+• Appuyez sur → pour avancer dans l'historique
+• Le compteur de génération se réinitialise à 0 lors de la navigation
+• Jusqu'à 100 générations sauvegardées
+
+🎯 PAUSE AUTOMATIQUE :
+
+• Appuyez sur O pour activer/désactiver la pause auto
+• Quand activée, la simulation se met en pause automatiquement
+  lorsqu'un motif stable est détecté (oscillateurs ou natures
+  mortes après 3 générations)
+
+📖 PLUS D'INFORMATIONS :
+
+• Documentation complète dans : dossier docs/
+• Guide utilisateur : docs/USER_GUIDE_FR.md
+• Architecture : docs/ARCHITECTURE.md
+• Principes SOLID : docs/SOLID_PRINCIPLES.md
+
+================================================================================
+
+🎨 SUGGESTED PATTERNS TO TRY / MOTIFS À ESSAYER
+------------------------------------------------
+
+BLOCK (Still Life / Nature Morte):
+██
+██
+
+BLINKER (Oscillator Period 2 / Oscillateur Période 2):
+Vertical:          Horizontal:
+█                  ███
+█
+█
+
+GLIDER (Moving / En Mouvement):
+ █
+  █
+███
+
+TOAD (Oscillator Period 2):
+ ███
+███
+
+Try drawing these patterns and press SPACE to see them evolve!
+Essayez de dessiner ces motifs et appuyez sur ESPACE pour les voir évoluer !
+
+================================================================================
+
+📞 NEED HELP? / BESOIN D'AIDE ?
+
+Email: your.email@example.com
+GitHub Issues: https://github.com/yourusername/GameOfLife/issues
+Documentation: See docs/ folder
+
+================================================================================
+
+Enjoy exploring Conway's Game of Life!
+Profitez de l'exploration du Jeu de la Vie de Conway !
+
+Have fun! / Amusez-vous bien !
+
+================================================================================
